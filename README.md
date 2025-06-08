@@ -1,4 +1,4 @@
-# Media-Analytics-
+# Merch-Analytics-
 
 Problem Statement - Retailers struggle to manage merchandise effectively across digital and physical channels due to demand uncertainty, inventory inefficiencies, pricing complexity, and the need for personalized customer experiences.
 
